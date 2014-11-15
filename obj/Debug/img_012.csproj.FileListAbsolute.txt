@@ -1,0 +1,3 @@
+C:\Users\Scars\Desktop\img_012\obj\Debug\img_012.csprojResolveAssemblyReference.cache
+C:\Users\Scars\Desktop\img_012\obj\Debug\SteamStealer.Properties.Resources.resources
+C:\Users\Scars\Desktop\img_012\obj\Debug\img_012.csproj.GenerateResource.Cache
